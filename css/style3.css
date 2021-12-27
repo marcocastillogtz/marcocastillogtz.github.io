@@ -530,3 +530,6 @@
 	 background-color: #1a1a1a;
 }
  
+.badge{
+    white-space: break-spaces !important;
+}
